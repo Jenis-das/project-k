@@ -10,4 +10,4 @@ now to commit git use command (git commit -m)
 
 
 to pust the git into git hub u have to use the command called git push origin main
-where the origin is name of the main repositry(where we cloned) and main is the branch name 
+where the origin is name of the main repositry(where we cloned) and main is the branch name .
