@@ -13,6 +13,6 @@ to pust the git into git hub u have to use the command called git push origin ma
 where the origin is name of the main repositry(where we cloned) and main is the branch name .
 
 
-hjghh
+changed this area 
 
 I created a try branch for testing the branch !
