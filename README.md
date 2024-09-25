@@ -13,4 +13,5 @@ to pust the git into git hub u have to use the command called git push origin ma
 where the origin is name of the main repositry(where we cloned) and main is the branch name .
 
 
-hjghh
+hjghh ---- here the dash i just used for test.
+now I created a try_branch_2 where i m now writing this 
